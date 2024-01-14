@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"My Favorite Songs",
+        "total":"345 Songs",
+        "image":"https://th.bing.com/th/id/R.78d3bd82c378c041c982cc767c3d5ff5?rik=wRE%2bxCGYEHfT3Q&riu=http%3a%2f%2fbcciep5.weebly.com%2fuploads%2f5%2f4%2f8%2f6%2f54863913%2falliknowisthatilovemusic_orig.jpg&ehk=dNhGTuAcbmTN72Z33nKQMqxVNUYvTRnJHm1Lgz9C9kM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id":2,
+        "name":"90s Old Songs",
+        "total":"127 Songs",
+        "image":"https://th.bing.com/th/id/OIP.PTS-FtFcHxQZqW-5CPssOQAAAA?w=400&h=400&rs=1&pid=ImgDetMain"
+    },
+    {
+        "id":3,
+        "name":"Legend Roack Songs",
+        "total":"148 Songs",
+        "image":"https://i.ytimg.com/vi/iNGSFcVSpFM/maxresdefault.jpg"
+    },
+    {
+        "id":4,
+        "name":"Driver Songs",
+        "total":"136 Songs",
+        "image":"https://th.bing.com/th/id/R.78d3bd82c378c041c982cc767c3d5ff5?rik=wRE%2bxCGYEHfT3Q&riu=http%3a%2f%2fbcciep5.weebly.com%2fuploads%2f5%2f4%2f8%2f6%2f54863913%2falliknowisthatilovemusic_orig.jpg&ehk=dNhGTuAcbmTN72Z33nKQMqxVNUYvTRnJHm1Lgz9C9kM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id":5,
+        "name":"Long Drive",
+        "total":"127 Songs",
+        "image":"https://th.bing.com/th/id/R.78d3bd82c378c041c982cc767c3d5ff5?rik=wRE%2bxCGYEHfT3Q&riu=http%3a%2f%2fbcciep5.weebly.com%2fuploads%2f5%2f4%2f8%2f6%2f54863913%2falliknowisthatilovemusic_orig.jpg&ehk=dNhGTuAcbmTN72Z33nKQMqxVNUYvTRnJHm1Lgz9C9kM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id":6,
+        "name":"Lofi",
+        "total":"45 Songs",
+        "image":"https://th.bing.com/th/id/R.78d3bd82c378c041c982cc767c3d5ff5?rik=wRE%2bxCGYEHfT3Q&riu=http%3a%2f%2fbcciep5.weebly.com%2fuploads%2f5%2f4%2f8%2f6%2f54863913%2falliknowisthatilovemusic_orig.jpg&ehk=dNhGTuAcbmTN72Z33nKQMqxVNUYvTRnJHm1Lgz9C9kM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id":7,
+        "name":"Romance",
+        "total":"50 Songs",
+        "image":"https://th.bing.com/th/id/R.78d3bd82c378c041c982cc767c3d5ff5?rik=wRE%2bxCGYEHfT3Q&riu=http%3a%2f%2fbcciep5.weebly.com%2fuploads%2f5%2f4%2f8%2f6%2f54863913%2falliknowisthatilovemusic_orig.jpg&ehk=dNhGTuAcbmTN72Z33nKQMqxVNUYvTRnJHm1Lgz9C9kM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id":8,
+        "name":"Ashish Ranjan Playlist",
+        "total":"100 Songs",
+        "image":"https://th.bing.com/th/id/R.78d3bd82c378c041c982cc767c3d5ff5?rik=wRE%2bxCGYEHfT3Q&riu=http%3a%2f%2fbcciep5.weebly.com%2fuploads%2f5%2f4%2f8%2f6%2f54863913%2falliknowisthatilovemusic_orig.jpg&ehk=dNhGTuAcbmTN72Z33nKQMqxVNUYvTRnJHm1Lgz9C9kM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id":9,
+        "name":"Escape Route",
+        "total":"10 Songs",
+        "image":"https://th.bing.com/th/id/R.78d3bd82c378c041c982cc767c3d5ff5?rik=wRE%2bxCGYEHfT3Q&riu=http%3a%2f%2fbcciep5.weebly.com%2fuploads%2f5%2f4%2f8%2f6%2f54863913%2falliknowisthatilovemusic_orig.jpg&ehk=dNhGTuAcbmTN72Z33nKQMqxVNUYvTRnJHm1Lgz9C9kM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id":10,
+        "name":"Night Songs",
+        "total":"74 Songs",
+        "image":"https://th.bing.com/th/id/R.78d3bd82c378c041c982cc767c3d5ff5?rik=wRE%2bxCGYEHfT3Q&riu=http%3a%2f%2fbcciep5.weebly.com%2fuploads%2f5%2f4%2f8%2f6%2f54863913%2falliknowisthatilovemusic_orig.jpg&ehk=dNhGTuAcbmTN72Z33nKQMqxVNUYvTRnJHm1Lgz9C9kM%3d&risl=&pid=ImgRaw&r=0"
+    }
+]

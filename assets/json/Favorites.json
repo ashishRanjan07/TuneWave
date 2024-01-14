@@ -1,0 +1,59 @@
+[
+    {
+      "id":1,
+      "name":"Die for you",
+      "song_name": "Romantic Songs",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/kGxbnw0Ky4/GxbnVv70by/size_l.webp",
+      "singer":"Shreya Ghoshal, Sonu Nigam, Neha Kakkar"
+    },
+    {"id":2,
+    "name":"Tum Kya mile",
+      "song_name": "Dj Remix",
+      "image": "https://a10.gaanacdn.com/gn_pl_img/playlists/XzVWRLKdqR/zVWRmox63d/size_l_1684127157.webp",
+      "singer":"Shreya Ghoshal, Sonu Nigam, Neha Kakkar"
+    },
+    {
+      "id":3,
+      "name":"Love",
+      "song_name": "Bollwood 90s",
+      "image": "https://a10.gaanacdn.com/gn_pl_img/playlists/kGxbnw0Ky4/xbnwAyeVKy/size_l_1686316028.webp",
+      "singer":"Shreya Ghoshal, Sonu Nigam, Neha Kakkar"
+    },
+    {
+      "id":4,
+      "name":"Tu chale",
+      "song_name": "Party Songs",
+      "image": "https://a10.gaanacdn.com/gn_pl_img/playlists/zLp36v3rGe/p3671XqvWr/size_l_1641456836.webp",
+      "singer":"Shreya Ghoshal, Sonu Nigam, Neha Kakkar"
+    },
+    {
+      "id":5,
+      "name":"Animals",
+      "song_name": "Top 20 Songs",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/kGxbnw0Ky4/xbnwwYdQKy/size_l.webp",
+      "singer":"Shreya Ghoshal, Sonu Nigam, Neha Kakkar"
+    },
+    {
+      "id":6,
+      "name":"BGM",
+      "song_name": "Punjabi",
+      "image": "https://a10.gaanacdn.com/gn_pl_img/playlists/w4MKPgOboj/4MKP2xArWo/size_l_1693572538.webp",
+      "singer":"Shreya Ghoshal, Sonu Nigam, Neha Kakkar"
+    },
+    {
+      "id":7,
+      "name":"I Feel",
+      "song_name": "English",
+      "image": "https://a10.gaanacdn.com/gn_pl_img/playlists/Oxd3xzPbgV/d3xAMGMPWg/size_l_1636710435.webp",
+      "singer":"Shreya Ghoshal, Sonu Nigam, Neha Kakkar"
+    },
+    {
+      "id":8,
+      "name":"Tu jaane na",
+      "song_name": "Hindi",
+      "image": "https://a10.gaanacdn.com/gn_img/albums/21GWwrR3pk/1GWw472Rbp/size_l.webp",
+      "singer":"Shreya Ghoshal, Sonu Nigam, Neha Kakkar"
+    }
+]
+   
+  
