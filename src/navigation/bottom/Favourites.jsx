@@ -5,6 +5,7 @@ import {
   Image,
   TouchableOpacity,
   FlatList,
+  SafeAreaView,
 } from 'react-native';
 import React, {useState} from 'react';
 import Modal from 'react-native-modal';
@@ -123,6 +124,7 @@ const Favourites = () => {
   return (
     <View style={styles.mainContainer}>
       {/* Header */}
+        <SafeAreaView/>
       <View style={styles.view1}>
         <Image
           source={require('../../../assets/images/logo.png')}

@@ -1,4 +1,4 @@
-import {Image, ScrollView, StyleSheet, Text, View,TouchableOpacity} from 'react-native';
+import {Image, ScrollView, StyleSheet, Text, View,TouchableOpacity, SafeAreaView} from 'react-native';
 import React from 'react';
 import { Octicons,Entypo,AntDesign,MaterialIcons,Ionicons,Feather,FontAwesome } from '@expo/vector-icons';
 
@@ -6,6 +6,7 @@ import { Octicons,Entypo,AntDesign,MaterialIcons,Ionicons,Feather,FontAwesome } 
 const Setting = ({navigation}) => {
   return (
     <View style={styles.mainContainer}>
+      <SafeAreaView/>
     {/* Banner Image */}
     <TouchableOpacity style={styles.image} onPress={()=>navigation.replace('Main Screen')}>
       <Image

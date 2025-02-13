@@ -1,4 +1,4 @@
-import {Image,StyleSheet, Text, View } from 'react-native'
+import {Image,SafeAreaView,StyleSheet, Text, View } from 'react-native'
 import React, {useState} from 'react';
 import { Feather,FontAwesome } from '@expo/vector-icons';
 
@@ -11,6 +11,7 @@ const Profile = () => {
 
   return (
     <View style={styles.mainContainer}>
+      <SafeAreaView/>
       <Image
         source={require('../../../assets/images/pic.jpg')}
         resizeMode="cover"

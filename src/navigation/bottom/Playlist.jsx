@@ -6,6 +6,7 @@ import {
   TouchableOpacity,
   FlatList,
   TextInput,
+  SafeAreaView,
 } from 'react-native';
 import React, {useContext, useEffect, useState} from 'react';
 import Modal from 'react-native-modal';
@@ -108,6 +109,7 @@ const Playlist = () => {
   return (
     <View style={styles.mainContainer}>
       {/* Header  */}
+        <SafeAreaView/>
       <View style={styles.view1}>
         <Image
           source={require('../../../assets/images/logo.png')}

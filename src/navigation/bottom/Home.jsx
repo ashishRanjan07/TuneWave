@@ -1,4 +1,4 @@
-import { Image, StyleSheet, Text, View } from 'react-native'
+import { Image, SafeAreaView, StyleSheet, Text, View } from 'react-native'
 import React from 'react';
 import { Ionicons } from '@expo/vector-icons';
 import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs'
@@ -13,6 +13,7 @@ const TopBar = createMaterialTopTabNavigator();
 const Home = () => {
   return (
     <View style={styles.mainContainer}>
+    <SafeAreaView/>
      <View style={{flexDirection:'row',alignItems:'center',justifyContent:'space-between'}}>
       <Image source={require('../../../assets/images/logo.png')} resizeMode='contain' style={{height:75,width:100,marginStart:15}}/>
       <Text style={{fontSize:24,fontWeight:'700',color:'orange'}}>Tune Wave</Text>
